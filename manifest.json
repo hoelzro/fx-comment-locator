@@ -5,10 +5,6 @@
 
   "description": "Adds a marker next to the scrollbar indicating how far down on the page the comments are",
 
-  "icons": {
-    "48": "icons/border-48.png"
-  },
-
   "content_scripts": [
     {
       "matches": ["<all_urls>"],
