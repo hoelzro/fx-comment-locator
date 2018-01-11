@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Comment Locator",
-  "version": "1.0",
+  "version": "1.1",
   "author": "Rob Hoelz",
   "homepage_url": "https://github.com/hoelzro/fx-comment-locator",
 
